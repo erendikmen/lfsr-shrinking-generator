@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Nov 28 12:24:40 2025
+# Process ID         : 10200
+# Current directory  : C:/Users/tolga/OneDrive/Masaüstü/Eren Dikmen VHDL Report/shringing_gen/shrinking_gen
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent13708 C:\Users\tolga\OneDrive\Masaüstü\Eren Dikmen VHDL Report\shringing_gen\shrinking_gen\shrinking_gen.xpr
+# Log file           : C:/Users/tolga/OneDrive/Masaüstü/Eren Dikmen VHDL Report/shringing_gen/shrinking_gen/vivado.log
+# Journal file       : C:/Users/tolga/OneDrive/Masaüstü/Eren Dikmen VHDL Report/shringing_gen/shrinking_gen\vivado.jou
+# Running On         : DESKTOP-3DFOHF8
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+# CPU Frequency      : 4008 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 17123 MB
+# Swap memory        : 1073 MB
+# Total Virtual      : 18197 MB
+# Available Virtual  : 8211 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/tolga/OneDrive/Masaüstü/Eren Dikmen VHDL Report/shringing_gen/shrinking_gen/shrinking_gen.xpr}
+update_compile_order -fileset sources_1

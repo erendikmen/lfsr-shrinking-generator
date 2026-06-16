@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Tue Jun 16 15:47:26 2026
+# Process ID         : 14340
+# Current directory  : C:/Users/tolga/OneDrive/Masaüstü/Eren Dikmen VHDL Report/shringing_gen/shrinking_gen/shrinking_gen.runs/synth_1
+# Command line       : vivado.exe -log shrinking_generator.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source shrinking_generator.tcl
+# Log file           : C:/Users/tolga/OneDrive/Masaüstü/Eren Dikmen VHDL Report/shringing_gen/shrinking_gen/shrinking_gen.runs/synth_1/shrinking_generator.vds
+# Journal file       : C:/Users/tolga/OneDrive/Masaüstü/Eren Dikmen VHDL Report/shringing_gen/shrinking_gen/shrinking_gen.runs/synth_1\vivado.jou
+# Running On         : DESKTOP-3DFOHF8
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+# CPU Frequency      : 4008 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 17123 MB
+# Swap memory        : 3938 MB
+# Total Virtual      : 21061 MB
+# Available Virtual  : 10068 MB
+#-----------------------------------------------------------
+source shrinking_generator.tcl -notrace

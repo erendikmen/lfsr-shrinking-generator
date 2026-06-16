@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Tue Jun 16 15:44:59 2026
+# Process ID         : 2908
+# Current directory  : C:/Users/tolga/OneDrive/Masaüstü/Eren Dikmen VHDL Report/shringing_gen/shrinking_gen
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent10680 C:\Users\tolga\OneDrive\Masaüstü\Eren Dikmen VHDL Report\shringing_gen\shrinking_gen\shrinking_gen.xpr
+# Log file           : C:/Users/tolga/OneDrive/Masaüstü/Eren Dikmen VHDL Report/shringing_gen/shrinking_gen/vivado.log
+# Journal file       : C:/Users/tolga/OneDrive/Masaüstü/Eren Dikmen VHDL Report/shringing_gen/shrinking_gen\vivado.jou
+# Running On         : DESKTOP-3DFOHF8
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+# CPU Frequency      : 4008 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 17123 MB
+# Swap memory        : 3938 MB
+# Total Virtual      : 21061 MB
+# Available Virtual  : 11488 MB
+#-----------------------------------------------------------
+sstart_guioopen_project {C:/Users/tolga/OneDrive/Masaüstü/Eren Dikmen VHDL Report/shringing_gen/shrinking_gen/shrinking_gen.xpr}update_compile_order -fileset sources_1
+
+synth_design -top shrinking_generator -part xc7vx485tffg1157-1 -lint 
+synth_design -top shrinking_generator -part xc7vx485tffg1157-1 -lint 
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_simulation
+source tb_shrinking.tcl
+close_sim
